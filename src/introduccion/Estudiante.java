@@ -1,10 +1,13 @@
 package introduccion;
+
+//agregar setters
+
 public class Estudiante {
 
-    String nombre;
-    int edad;
-    String carrera;
-    String[] materias;
+    private String nombre;
+    private int edad;
+    private String carrera;
+    private String[] materias;
 
     public Estudiante(String nombre, int edad, String carrera, String[] materias){
         this.nombre = nombre;
