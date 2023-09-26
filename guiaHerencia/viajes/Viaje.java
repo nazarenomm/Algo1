@@ -1,4 +1,4 @@
-package herencia.viajes;
+package viajes;
 
 abstract public class Viaje {
     protected Trayecto trayecto;

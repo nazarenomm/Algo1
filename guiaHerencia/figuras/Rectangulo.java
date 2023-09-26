@@ -1,4 +1,4 @@
-package herencia.figuras;
+package figuras;
 
 public class Rectangulo extends Figura {
     private double base;

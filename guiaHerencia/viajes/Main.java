@@ -1,4 +1,4 @@
-package herencia.viajes;
+package viajes;
 
 public class Main {
 

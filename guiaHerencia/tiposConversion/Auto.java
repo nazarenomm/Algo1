@@ -1,4 +1,4 @@
-package herencia.tiposConversion;
+package tiposConversion;
 
 class Auto extends Vehiculo {
     void acelerar(int v) {

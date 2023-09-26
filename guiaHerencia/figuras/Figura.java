@@ -1,4 +1,4 @@
-package herencia.figuras;
+package figuras;
 
 abstract public class Figura {
 

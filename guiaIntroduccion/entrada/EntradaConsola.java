@@ -1,4 +1,4 @@
-package introduccion.entrada;
+package entrada;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class EntradaConsola {
         for (int i = 0; i < numeroLineas; i++) {
             System.out.println("Ingrese un mensaje");
             String mensaje = sc.nextLine();
-            introduccion.salida.SalidaConsola.mostrar(mensaje); // Llama al método estático de SalidaConsola
+            salida.SalidaConsola.mostrar(mensaje); // Llama al método estático de SalidaConsola
         }
         sc.close();
     }

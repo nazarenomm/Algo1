@@ -1,4 +1,4 @@
-package herencia.alquilando;
+package alquilando;
 
 public class Moto extends Vehiculo{
     

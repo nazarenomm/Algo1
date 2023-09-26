@@ -1,4 +1,4 @@
-package herencia.figuras;
+package figuras;
 
 public class Circulo extends Figura {
     private double radio;

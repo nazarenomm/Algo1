@@ -1,4 +1,4 @@
-package herencia.tiposConversion;
+package tiposConversion;
 
 public class Main {
     public static void main(String[] args) {

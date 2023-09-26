@@ -1,4 +1,4 @@
-package herencia.viajes;
+package viajes;
 
 public class AltaVelocidad extends Viaje{
     public AltaVelocidad(Trayecto trayecto, int cantVagones, int cantMaxPasajeros) {

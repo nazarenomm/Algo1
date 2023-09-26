@@ -1,4 +1,4 @@
-package introduccion.salida;
+package salida;
 
 public class SalidaConsola {
     public static void mostrar(String frase){
