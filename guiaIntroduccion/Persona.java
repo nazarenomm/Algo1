@@ -1,4 +1,4 @@
-package introduccion;
+
 
 public class Persona {
     // Atributos
