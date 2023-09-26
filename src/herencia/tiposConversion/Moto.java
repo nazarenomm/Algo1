@@ -1,7 +1,7 @@
 package herencia.tiposConversion;
 
 class Moto extends Vehiculo {
-    void acelerar() {
-        System.out.println("Moto acelerando.");
+    void acelerar(int v) {
+        System.out.println("Moto acelerando a " + v);
     }
 }

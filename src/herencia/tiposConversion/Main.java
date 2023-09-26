@@ -7,7 +7,8 @@ public class Main {
         vehiculos[1] = new Auto();      // Upcasting implícito
         
         for (Vehiculo vehiculo : vehiculos) {
-            vehiculo.acelerar();
+            double velocidad = 210.5;
+            vehiculo.acelerar((int)velocidad);
             if (vehiculo instanceof Auto) {
                 Auto auto = (Auto) vehiculo;
                 auto.subirVentanas();
